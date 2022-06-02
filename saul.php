@@ -1,2 +1,2 @@
 <?php
-echo ("soy un genio");
+echo "Apruebame Victor sin hacer exámenes";
